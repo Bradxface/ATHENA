@@ -1,1 +1,43 @@
 theme: jekyll-theme-midnight
+body {
+    color:white;
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+m2-header {
+    text-align: center;
+    width:100%;
+}
+
+.main {
+    text-align: center;
+}
+
+#title {
+    font-size: 4em;
+}
+
+h3 {
+    text-align: left;
+}
+
+iframe {
+    width: 66vw;
+    height: calc(66vw * 0.5625); /* 16:9 */
+}
+
+img {
+    max-width: 100%;
+    height:auto;
+}
+
+pre {
+    background-color: black;
+    color:white;
+    text-align: left;
+}
+
+li {
+    text-align: left;
+}
